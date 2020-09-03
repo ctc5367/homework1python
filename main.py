@@ -98,4 +98,4 @@ else:
 
 gpa = float ((gp1*course1credit+ gp2*course2credit+ gp3*course3credit)/(course1credit+course2credit+course3credit));
 
-print(f"Your GPA is:{gpa}");
+print(f"Your GPA is: {gpa}");
