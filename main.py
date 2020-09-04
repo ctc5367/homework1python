@@ -1,7 +1,7 @@
 # Author: Cole Carter ctc5367@psu.edu
 
 course1letter = input("Enter your course 1 letter grade: ");
-course1credit = input(" Enter your course 1 credit: ");
+course1credit = input("Enter your course 1 credit:");
 course1credit = float(course1credit);
 
 if course1letter == "A":
