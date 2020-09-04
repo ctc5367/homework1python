@@ -4,28 +4,28 @@ course1letter = input("Enter your course 1 letter grade: ");
 course1credit = input(" Enter your course 1 credit: ");
 course1credit = float(course1credit);
 
-if course1letter == "A" or course1letter == "a":
+if course1letter == "A":
   gp1 = float (4.0);
   print(" Grade point for course 1 is: 4.0");
-elif course1letter == "A-" or course1letter == "a-":
+elif course1letter == "A-":
   gp1 = float (3.67);
   print(" Grade point for course 1 is: 3.67");
-elif course1letter == "B+" or course1letter == "b+":
+elif course1letter == "B+":
   gp1 = float (3.33);
   print(" Grade point for course 1 is: 3.33");
-elif course1letter == "B" or course1letter == "b":
+elif course1letter == "B":
   gp1 = float (3.0);
   print(" Grade point for course 1 is: 3.0");
-elif course1letter == "B-" or course1letter == "b-":
+elif course1letter == "B-":
   gp1 = float (2.67);
   print(" Grade point for course 1 is: 2.67");
-elif course1letter == "C+" or course1letter == "c+":
+elif course1letter == "C+":
   gp1 = float (2.33);
   print(" Grade point for course 1 is: 2.33");
-elif course1letter == "C" or course1letter == "c":
+elif course1letter == "C":
   gp1 = float (2.0);
   print(" Grade point for course 1 is: 2.0");
-elif course1letter == "D" or course1letter == "d":
+elif course1letter == "D":
   gp1 = float (1.0);
   print(" Grade point for course 1 is: 1.0");
 else:
@@ -36,28 +36,28 @@ course2letter = input(" Enter your course 2 letter grade:");
 course2credit = input(" Enter your course 2 credit:");
 course2credit = float (course2credit);
 
-if course2letter == "A" or course2letter == "a":
+if course2letter == "A":
   gp2 = float (4.0);
   print(" Grade point for course 2 is: 4.0");
-elif course2letter == "A-" or course2letter == "a-":
+elif course2letter == "A-":
   gp2 = float (3.67);
   print(" Grade point for course 2 is: 3.67");
-elif course2letter == "B+" or course2letter == "b+":
+elif course2letter == "B+":
   gp2 = float (3.33);
   print(" Grade point for course 2 is: 3.33");
-elif course2letter == "B" or course2letter == "b":
+elif course2letter == "B":
   gp2 = float (3.0);
   print(" Grade point for course 2 is: 3.0");
-elif course2letter == "B-" or course2letter == "b-":
+elif course2letter == "B-":
   gp2 = float (2.67);
   print(" Grade point for course 2 is: 2.67");
-elif course2letter == "C+" or course2letter == "c+":
+elif course2letter == "C+":
   gp2 = float (2.33);
   print(" Grade point for course 2 is: 2.33");
-elif course2letter == "C" or course2letter == "c":
+elif course2letter == "C":
   gp2 = float (2.0);
   print(" Grade point for course 2 is: 2.0");
-elif course2letter == "D" or course2letter == "d":
+elif course2letter == "D":
   gp2 = float (1.0);
   print(" Grade point for course 2 is: 1.0");
 else:
@@ -68,28 +68,28 @@ course3letter = input(" Enter your course 3 letter grade:");
 course3credit = input(" Enter your course 3 credit:");
 course3credit = float (course3credit);
 
-if course3letter == "A" or course3letter == "a":
+if course3letter == "A":
   gp3 = float (4.0);
   print(" Grade point for course 3 is: 4.0");
-elif course3letter == "A-" or course3letter == "a-":
+elif course3letter == "A-":
   gp3 = float (3.67);
   print(" Grade point for course 3 is: 3.67");
-elif course3letter == "B+" or course3letter == "b+":
+elif course3letter == "B+":
   gp3 = float (3.33);
   print(" Grade point for course 3 is: 3.33");
-elif course3letter == "B" or course3letter == "b":
+elif course3letter == "B":
   gp3 = float (3.0);
   print(" Grade point for course 3 is: 3.0");
-elif course3letter == "B-" or course3letter == "b-":
+elif course3letter == "B-":
   gp3 = float (2.67);
   print(" Grade point for course 3 is: 2.67");
-elif course3letter == "C+" or course3letter == "c+":
+elif course3letter == "C+":
   gp3 = float (2.33);
   print(" Grade point for course 3 is: 2.33");
-elif course3letter == "C" or course3letter == "c":
+elif course3letter == "C":
   gp3 = float (2.0);
   print(" Grade point for course 3 is: 2.0");
-elif course3letter == "D" or course3letter == "d":
+elif course3letter == "D":
   gp3 = float (1.0);
   print(" Grade point for course 3 is: 1.0");
 else:
