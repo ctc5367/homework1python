@@ -32,7 +32,7 @@ else:
   gp1 = float (0.0);
   print(" Grade point for course 1 is: 0.0");
 
-course2letter = input(" Enter your course 2 letter grade:");
+course2letter = input("Enter your course 2 letter grade:");
 course2credit = input(" Enter your course 2 credit:");
 course2credit = float (course2credit);
 
@@ -64,7 +64,7 @@ else:
   gp2 = float (0.0);
   print(" Grade point for course 2 is: 0.0");
 
-course3letter = input(" Enter your course 3 letter grade:");
+course3letter = input("Enter your course 3 letter grade:");
 course3credit = input(" Enter your course 3 credit:");
 course3credit = float (course3credit);
 
